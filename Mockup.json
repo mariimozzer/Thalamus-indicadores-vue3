@@ -1,0 +1,21 @@
+{
+  "data": {
+      "labels": "January",
+      "datasets": [{
+          "label": "Data One",
+          "backgroundColor": "",
+          "data": [40, 39, 10, 40, 39, 80, 40]
+      },
+       {
+          "label": "Data Two",
+          "backgroundColor": "",
+          "data": [50, 1, 10, 65, 20, 80, 100]
+      },
+      {
+          "label": "Data Three",
+          "backgroundColor": "",
+          "data": [20, 1, 100, 85, 90, 60, 0]
+      }
+    ]
+  }
+}
